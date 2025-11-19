@@ -25,3 +25,6 @@ list-style-type : georgian;
 p {
 	color: rgba(255, 255, 255, 0.646);
 }
+.testdiv h1 {
+  color: blue;
+}
